@@ -10,9 +10,9 @@ The jupyter notebook performs the following functions:
 - read the population dataset, which is Udacity_AZDIAS_Subset.csv
 - read the feature description file, AZDIAS_Feature_Summary.csv
 - clean the data by removing rows, columns with missing data, deal with NaN occurrences, transform specific features (all this is described in the notebook)
-- the rows are customers, the columns are products customers buy
+- the rows are individuals, the columns are the features
 - apply Principal Components Analysis to reduce the number of features
-- apply k-means to determine the cluster which each customer belongs to
+- apply k-means to determine the cluster an individual belongs to
 - read the customer dataset, Udacity_CUSTOMERS_Subset.csv and apply the same 'cleaning' actions as for the population data
 - apply the same pca model determined on the population data
 - apply the same k-means model determined on the population data

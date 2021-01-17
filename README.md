@@ -24,6 +24,6 @@ male, approx 60 years old, german, interested in financial matters, money saver,
 
 Note: if you run the notebook YOU WILL NOT GET THE SAME DIAGRAM as in paragraph 3.3, however the conclusions hold. 
 Therefore you should see a cluster with label X with IDENTICAL characteristics as cluster #19 in the notebook.
-To illustrate this point I have created a simpler notebook that reproducs the behavior: https://github.com/joepareti54/Test_PCA_K-means
+To illustrate this point I have created a simpler notebook that reproduces the behavior: https://github.com/joepareti54/Test_PCA_K-means
 
 In addition, many assumptions were made on which data to drop. Those may affect the final results. The data preparation step was by far the most challenging task.
